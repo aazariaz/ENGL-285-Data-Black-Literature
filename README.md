@@ -1,4 +1,4 @@
-# **A Numerical Analysis of Themes in Black Women's Literature**
+# **An Exploration of Data Relating to Themes in Black Women's Literature**
 
 # **Books Discussed**
 
