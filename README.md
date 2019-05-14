@@ -14,3 +14,4 @@
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/home.jpg?raw=true)
 
 ### [*The Women of Brewster Place*](https://aazariaz.github.io/brewster)
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/brewster.jpg?raw=true)
