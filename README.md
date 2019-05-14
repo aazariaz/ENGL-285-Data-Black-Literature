@@ -1,11 +1,15 @@
-# **Their Eyes Were Watching God**
+# **A Numerical Analysis of Themes in Black Women's Literature**
+
+# **Books Discussed**
+
+## *Their Eyes Were Watching God*
 [test](https://aazariaz.github.io/about)
 
-# **I Know Why the Caged Bird Sings**
+## *I Know Why the Caged Bird Sings*
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/caged%20bird.jpg?raw=true)
 
-# **Another Brooklyn**
+## *Another Brooklyn*
 
-# **Home**
+## *Home*
 
-# **The Women of Brewster Place**
+## *The Women of Brewster Place*
