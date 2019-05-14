@@ -9,7 +9,7 @@
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/bird%20sings.jpg?raw=true)
 
 ### [*Another Brooklyn*](https://aazariaz.github.io/brooklyn)
-![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/another%20brooklyn.jpg?raw=true)
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/brook.jpg?raw=true)
 
 ### [*Home*](https://aazariaz.github.io/home)
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/home.jpg?raw=true)
