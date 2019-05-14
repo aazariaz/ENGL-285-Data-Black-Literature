@@ -2,11 +2,9 @@
 
 # **Books Discussed**
 
-## *Their Eyes Were Watching God*
-[test](https://aazariaz.github.io/about)
+## [*Their Eyes Were Watching God*](https://aazariaz.github.io/theireyes)
 
 ## *I Know Why the Caged Bird Sings*
-![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/caged%20bird.jpg?raw=true)
 
 ## *Another Brooklyn*
 
