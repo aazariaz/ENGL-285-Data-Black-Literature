@@ -1,4 +1,6 @@
 # **An Exploration of Data Relating to Themes in Black Women's Literature**
+## A Historical Perspective on Data
+## Modern Trends in Data
 
 # **Books Discussed**
 
