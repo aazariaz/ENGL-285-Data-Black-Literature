@@ -2,7 +2,7 @@
 
 # **Books Discussed**
 
-### [*Their Eyes Were Watching God*](https://aazariaz.github.io/theireyes)
+### [*Their Eyes Were Watching God*](https://aazariaz.github.io/theireyes):bee:
 
 ### [*I Know Why the Caged Bird Sings*](https://aazariaz.github.io/cagedbird)
 
