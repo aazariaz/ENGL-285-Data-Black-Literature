@@ -1,13 +1,11 @@
-# **Modern Data Trends**
+# **Combative Nature of Society**
+### *Looking at Policing Statistics for Black Americans*
 
-## *Combative Nature of Society*
-### Looking at Policing Statistics for Black Americans
+# **Challenges Faced by Black Americans Coming of Age**
+### *Poverty and Education*
 
-## *Challenges Faced by Black Americans Coming of Age*
-### Poverty and Education
+# **Building Black Communities**
+### *Housing Statistics*
 
-## *Building Black Communities*
-### Housing Statistics
-
-## *Power Dynamics Between Men and Women*
-### Analyzing How Americans View Masculinity and Nature vs. Nuture
+# **Power Dynamics Between Men and Women**
+### *Analyzing How Americans View Masculinity and Nature vs. Nuture*
