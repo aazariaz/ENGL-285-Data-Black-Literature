@@ -3,7 +3,7 @@ These charts were prepared by W.E.B. Du Bois for the 1900 World Fair in Paris.  
 
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart1.jpg?raw=true)
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart2.jpg?raw=true)
-![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart3.jpg?raw=true)
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart3.jpg?raw=true) >Bar graph shows amount spent on rent, food, clothes, taxes, and other expenses by families in various income brackets
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart4.jpg?raw=true)
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart5.jpg?raw=true)
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart6.jpg?raw=true)
