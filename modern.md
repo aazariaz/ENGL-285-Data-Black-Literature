@@ -7,7 +7,7 @@ Toni Morrison's *Home* documents examples of structural racism during the time p
 ## *Poverty and Education*
 In *I Know Why the Caged Bird Sings*, Maya Angelou faces the struggles of growing up as a black girl.  Some of the major challenges that can make childhood difficult are poverty and accessibility to education.  The U.S. Census Bureau and Department of Commerce provide college enrollment rates across a number of races and ethnicities from 2000-2012.  The U.S. Unification Project also provides data on K-12 enrollment, sate and federal revenues, and performance indicators across different races and ethnicities.
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph1%20(3).jpg?raw=true)
-![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph3%20(2).jpg?raw=true)
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph4%20(2).png?raw=true)
 
 # **Building Black Communities**
 ## *Housing Statistics*
