@@ -1,5 +1,5 @@
 # **An Exploration of Data Relating to Themes in Black Women's Literature**
-## A Historical Perspective on Data
+## [A Historical Perspective on Data](https://aazariaz.github.io/historical)
 ## Modern Trends in Data
 
 # **Books Discussed**
