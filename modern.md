@@ -13,6 +13,8 @@ In *I Know Why the Caged Bird Sings*, Maya Angelou faces the struggles of growin
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph1%20(3).jpg?raw=true)
 ![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph4%20(2).png?raw=true)
 These graphics were created in Excel using raw data.
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/graph9.JPG?raw=true)
+This is an original graphic.  It was created in Matlab using raw data from the U.S. Unification Project.  This is a correlation heatmap, where you can see how revenue and expenditures, grade enrollment, and average standardized test scores in math and reading are correlated.  You can see that in general, the revenue a state makes is highly correlated with its enrollment numbers, so wealthier states will have more accessible education.
 
 # **Building Black Communities**
 ## *Housing Statistics*
