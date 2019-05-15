@@ -17,6 +17,8 @@ These graphics were created in Excel using raw data.
 # **Building Black Communities**
 ## *Housing Statistics*
 *The Women of Brewster Place* by Gloria Naylor highlights the housing issues faced by minorities in America.  Mattie struggles to find a home for her and her infant son, from her baby being bitten by a rat at one housing complex, to being turned away from other places solely for being a single mother.  Data from the U.S. Department of Housing and Urban Development shows that black children ages 0-17 face significantly higher rates of having severe housing problems and high cost burdens.
+![alt text](https://github.com/aazariaz/aazariaz.github.io/blob/master/chart8%20(2).png?raw=true)
+This is an original graphic created in Excel using raw data.
 
 # **Power Dynamics Between Men and Women**
 ## *Analyzing How Americans View Masculinity and Nature vs. Nuture*
