@@ -1,5 +1,5 @@
 # **An Exploration of Data Relating to Themes in Black Women's Literature**
-## [A Historical Perspective on Data](https://aazariaz.github.io/historical/)
+## [A Historical Perspective on Data](https://aazariaz.github.io/historical)
 Looking at historical records can provide valuable insight to the past.  Black women's literature can help provide the conceptual frameworks through which we view this data, and put perspective to the numbers.  A set of charts created by W.E.B Du Bois are just one example that illustrate both progressions and struggles in African American life in the past.
 
 ## [Modern Trends in Data](https://aazariaz.github.io/modern)
