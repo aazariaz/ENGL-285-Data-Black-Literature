@@ -2,7 +2,7 @@
 ## [A Historical Perspective on Data](https://aazariaz.github.io/historical)
 Looking at historical records can provide valuable insight to the past.  Black women's literature can help provide the conceptual frameworks through which we view this data, and put perspective to the numbers.  A set of charts created by W.E.B Du Bois are just one example that illustrate both progressions and struggles in African American life in the past.
 
-## [Modern Trends in Data](https://aazariaz.github.io/blob/master/modern)
+## [Modern Trends in Data](aazariaz.github.io/modern)
 Themes in black women's literature can help contextualize the trends we see in data today, and put a story to the numbers.  Click on this section to view data visualizations from various sources and see how we can expand on common themes in our discussed books.
 
 # **Books Discussed**
